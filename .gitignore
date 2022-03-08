@@ -3,3 +3,8 @@
 ################################################################################
 
 /BlazorClient/Client/bin/Debug/net5.0
+/BlazorClient/Client/obj
+/BlazorClient/Server/bin/Debug/net5.0
+/BlazorClient/Server/obj
+/BlazorClient/Shared/bin/Debug/net5.0
+/BlazorClient/Shared/obj
